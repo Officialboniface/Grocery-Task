@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StartTask3</string>
+    <string name="groceries">Groceries</string>
+    <string name="grocery_name">Grocery Name</string>
+    <string name="price">Price</string>
+    <string name="check_out">Check Out</string>
+    <string name="here_is_your_grocery_items">Here is your Grocery items</string>
+    <string name="total">Total: $</string>
+    <string name="textview">TextView</string>
+    <string name="hello_boniface">Hello Boniface,</string>
+</resources>
